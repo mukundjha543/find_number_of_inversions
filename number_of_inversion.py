@@ -1,3 +1,5 @@
+#just compare left and right array while merging
+#both the arrays
 ans = 0
 def merge(left, right):
     result = []
